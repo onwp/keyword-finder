@@ -7,14 +7,10 @@ import {
   TableBody,
   TableCell,
 } from "@/components/ui/table";
+import { KeywordResult } from "@/types/keyword";
 
 interface ResultsTableProps {
-  results: {
-    google: string[];
-    yahoo: string[];
-    bing: string[];
-    youtube: string[];
-  };
+  results: KeywordResult;
   isLoading?: boolean;
 }
 
