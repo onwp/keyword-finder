@@ -1,5 +1,7 @@
 # Keyword Finder
 
+![Keyword Finder Screenshot](./public/keyword-finder.png)
+
 ## Overview
 
 Keyword Finder is a modern, user-friendly web application that helps users discover related search suggestions from multiple platforms in real-time. This tool is invaluable for SEO specialists, content creators, and market researchers looking to optimize their content strategy.
