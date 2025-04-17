@@ -34,7 +34,7 @@ Keyword Finder is a modern, user-friendly web application that helps users disco
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/keyword-finder.git
+   git clone https://github.com/onwp/keyword-finder.git
    cd keyword-finder
    ```
 
